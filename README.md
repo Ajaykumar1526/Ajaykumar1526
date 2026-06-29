@@ -14,7 +14,7 @@ Final-year B.Tech AI & Data Science student | Building ML, mobile & full-stack p
 🚀 About Me
 
 
-🎓 Final-year AI & Data Science student at Surya Group of Institutions, Puducherry
+🎓 Final-year AI & Data Science student at Surya Group of Institutions, Villupuram
 🛠️ Comfortable across the stack: Python, ML/DL, Flutter & Firebase, React, SQL
 📊 Currently building projects in computer vision, predictive ML, and mobile development
 📫 Reach me at ajaykumarak2006115@gmail.com | https://www.linkedin.com/in/ajay1526/
